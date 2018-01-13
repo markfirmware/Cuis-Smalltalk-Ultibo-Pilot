@@ -1,0 +1,8 @@
+*.bin
+*.elf
+*.o
+*.s
+lib/
+ld-print-map.txt
+link.res
+ppas.bat
