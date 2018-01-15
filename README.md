@@ -4,7 +4,7 @@ Install Cuis Smalltalk, Ultibo, and Git for your platform.
 
 Installing Cuis: replacing "MyProject" with "Cuis" use Windows installation instructions at https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev/blob/master/Documentation/GettingStarted.md
 
-To get the pilot code, in a bash command shell:
+To get the pilot code, in a bash console:
 
     cd Cuis
     git clone https:github.com/markfirmware/Cuis-Smalltalk-Ultibo-Pilot
@@ -12,15 +12,15 @@ To get the pilot code, in a bash command shell:
 Operation
 =========
 
-In a bash command shell:
+In a bash console:
 
     cd Cuis
     cd Cuis-Smalltalk-Ultibo-Pilot
     ./run-kernel.sh
 
-which will build Ultibo Example 04 - KeyboardInput and run it in QEMU.
+which will build Ultibo Example 04 - KeyboardInput and run it in QEMU. It will remain running in this console.
 
-In a new bash command shell start cuis:
+In a new bash console, start cuis:
 
     cd Cuis
     cd Cuis-Smalltalk-Dev
