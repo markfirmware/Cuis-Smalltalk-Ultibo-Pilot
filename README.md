@@ -1,10 +1,10 @@
-Install Cuis Smalltalk and Ultibo for your platform.
+Install Cuis Smalltalk, Ultibo, and Git for your platform.
 
-In a command shell, run:
+In a bash command shell, run:
 
 ./run-kernel.sh
 
-which will build and run Ultibo Example 04 - KeyboardInput in QEMU
+which will build Ultibo Example 04 - KeyboardInput and run it in QEMU.
 
 In a cuis workspace, do:
 
