@@ -2,9 +2,9 @@ Installation
 ============
 Install Cuis Smalltalk, Ultibo, and Git for your platform.
 
-Installing Cuis: replacing "MyProject" with "Cuis" use Windows installation instructions at https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev/blob/master/Documentation/GettingStarted.md
+Installing Cuis: replacing "MyProject" with "Cuis" use the "for all systems" and then the "Windows" installation instructions at https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev/blob/master/Documentation/GettingStarted.md
 
-To get the pilot code, in a bash console:
+To install the pilot code, in a bash console:
 
     cd Cuis
     git clone https:github.com/markfirmware/Cuis-Smalltalk-Ultibo-Pilot
